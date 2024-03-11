@@ -1,0 +1,5 @@
+frontend/.env
+frontend/pnpm-lock.yaml
+backend/.env
+backend/pipeline_storage/docstore.json
+backend/pipeline_storage/llama_cache
